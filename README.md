@@ -16,3 +16,6 @@ In the other, enter:
 `npm run start`
 
 The blog site will be up on your browser now :)
+
+
+Credits: https://youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
