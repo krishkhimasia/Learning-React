@@ -2,6 +2,10 @@
 
 Blog Website made using React.
 
+<p align="center">
+<img src="https://github.com/krishkhimasia/Learning-React/blob/main/Krish's%20Blog/blog-prev.png?raw=true">
+</p>
+
 Download the files in the repository.
 
 Open up the terminal and enter the following to install required node.js packages:
