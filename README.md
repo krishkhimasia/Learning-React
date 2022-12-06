@@ -1,5 +1,7 @@
 # Learning-React
 
+Blog Website made using React.
+
 Download the files in the repository.
 
 Open up the terminal and enter the following to install required node.js packages:
